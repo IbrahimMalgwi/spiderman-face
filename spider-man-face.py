@@ -1,6 +1,7 @@
 from turtle import *
 import turtle as t
 
+# Spider man face
 speed(13)  # Painting speed control
 t.Screen().bgcolor("Dark red")
 pensize(10)
